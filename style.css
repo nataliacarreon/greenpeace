@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+
+
+}
+#scene {
+    background-color: #000011;
+    justify-content: center;
+    display: flex;
+    overflow: hidden;
+}
+
+.banner{
+    height: 100vh;
+    width: auto;
+    position: relative;
+
+}
+
+#d1{
+    top: 10vh;
+    
+}
+
+.titulo{
+    font-size: 8em;
+    color: #ffffff;
+    text-align: center;
+    top: 10vh;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#title{
+    position: relative;
+    justify-content: center;
+    left: 10vw;
+}
+
+.container-two{
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.container-tree{
+    width: 100vw;
+    height: 100vh;
+}
+
+h3 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 6em;
+    color: #000011;
+}
+
+.titulo3 {
+    display: flex;
+    justify-content: center;
+}
